@@ -14,7 +14,7 @@ Besides that, I have a few hobbies that help me balance my routine and keep my m
 
 Other Interests
 
-    I’m a big fan of One Piece and rooting for Luffy to become the King of the Pirates! ☠️
+    I'm a fan of One Piece, and my daughter's name is Nami, in honor of the navigator of the Straw Hat crew. ☠️
     I'm always striving to improve my statistics skills, as I believe it’s a powerful tool for data analysis and decision-making.
 
 What You'll Find Here
@@ -42,7 +42,7 @@ Além disso, tenho alguns hobbies que me ajudam a equilibrar a rotina e manter a
 
 Outros Interesses
 
-    Sou um grande fã de One Piece e torço para que o Luffy se torne o Rei dos Piratas! ☠️
+    Sou fã de One Piece e minha filha se chama Nami em homenagem a navegadora dos Chapeis de Palha! ☠️
     Sempre procuro me aperfeiçoar em estatística, pois acredito que é uma ferramenta poderosa para análise de dados e tomada de decisão.
 
 O que você encontra aqui
