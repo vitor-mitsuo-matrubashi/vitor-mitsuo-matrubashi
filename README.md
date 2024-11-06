@@ -2,6 +2,8 @@ Hello! 👋 I'm Vitor Mitsuo, but people call me Mit.
 
 I work with Market Risk and Finance, and I’m passionate about programming and statistics. In my daily work, I deal with risk analysis and the development of solutions, always aiming to learn and apply new technologies and concepts. 🌱
 
+I studied Applied and Computational Mathematics at the University of São Paulo (USP), which gave me a solid foundation to combine finance, programming, and data analysis in my work. 📚
+
 Besides that, I have a few hobbies that help me balance my routine and keep my mind active:
 
     🎹 I’m learning to play the piano.
@@ -26,9 +28,12 @@ In this repository, I’ll be sharing:
     Explorations in machine learning and new technologies that I’m learning.
 
 _____________________________________________________________________________________________________________________________________________________________________________
+
 Olá! 👋 Eu sou o Vitor Mitsuo, mas pode me chamar de Mit.
 
 Trabalho com Risco de Mercado e Finanças, e sou apaixonado por programação e estatística. No meu dia a dia, lido com análises de risco e desenvolvimento de soluções, sempre buscando aprender e aplicar novas tecnologias e conceitos. 🌱
+
+Estudei Matemática Aplicada e Computacional na Universidade de São Paulo (USP), o que me proporcionou uma base sólida para combinar finanças, programação e análise de dados no meu trabalho. 📚
 
 Além disso, tenho alguns hobbies que me ajudam a equilibrar a rotina e manter a mente ativa:
 
@@ -42,7 +47,7 @@ Além disso, tenho alguns hobbies que me ajudam a equilibrar a rotina e manter a
 
 Outros Interesses
 
-    Sou fã de One Piece e minha filha se chama Nami em homenagem a navegadora dos Chapeis de Palha! ☠️
+    Sou fã de One Piece e minha filha se chama Nami em homenagem a navegadora dos Chapéus de Palha! ☠️
     Sempre procuro me aperfeiçoar em estatística, pois acredito que é uma ferramenta poderosa para análise de dados e tomada de decisão.
 
 O que você encontra aqui
